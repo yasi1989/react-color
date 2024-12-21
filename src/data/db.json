@@ -1,0 +1,149 @@
+{
+  "color": {
+    "palette": [
+      {
+        "slug": "red",
+        "color": "#e60033",
+        "name": "Red"
+      },
+
+      {
+        "slug": "pink",
+        "color": "#e95295",
+        "name": "Pink"
+      },
+
+      {
+        "slug": "purple",
+        "color": "#884898",
+        "name": "Purple"
+      },
+
+      {
+        "slug": "deep",
+        "color": "#55295b",
+        "name": "Deep"
+      },
+
+      {
+        "slug": "indigo",
+        "color": "#1e50a2",
+        "name": "Indigo"
+      },
+
+      {
+        "slug": "blue",
+        "color": "#0095d9",
+        "name": "Blue"
+      },
+
+      {
+        "slug": "light-blue",
+        "color": "#2ca9e1",
+        "name": "Light Blue"
+      },
+
+      {
+        "slug": "cyan",
+        "color": "#00a3af",
+        "name": "Cyan"
+      },
+
+      {
+        "slug": "teal",
+        "color": "#007b43",
+        "name": "Teal"
+      },
+
+      {
+        "slug": "green",
+        "color": "#3eb370",
+        "name": "Green"
+      },
+
+      {
+        "slug": "light-green",
+        "color": "#8bc34a",
+        "name": "Light Green"
+      },
+
+      {
+        "slug": "lime",
+        "color": "#c3d825",
+        "name": "Lime"
+      },
+
+      {
+        "slug": "yellow",
+        "color": "#ffd900",
+        "name": "Yellow"
+      },
+
+      {
+        "slug": "amber",
+        "color": "#ffc107",
+        "name": "Amber"
+      },
+
+      {
+        "slug": "orange",
+        "color": "#f39800",
+        "name": "Orange"
+      },
+
+      {
+        "slug": "deep-orange",
+        "color": "#ea5506",
+        "name": "Deep Orange"
+      },
+
+      {
+        "slug": "brown",
+        "color": "#954e2a",
+        "name": "Brown"
+      },
+
+      {
+        "slug": "grey",
+        "color": "#949495",
+        "name": "Grey"
+      },
+
+      {
+        "slug": "dark-black",
+        "color": "#000000",
+        "name": "Black"
+      },
+
+      {
+        "slug": "bibid-white",
+        "color": "#ffffff",
+        "name": "White"
+      },
+
+      {
+        "slug": "watery-blue",
+        "color": "#f3fafe",
+        "name": "Watery Blue"
+      },
+
+      {
+        "slug": "watery-yellow",
+        "color": "#fff7cc",
+        "name": "Watery Yellow"
+      },
+
+      {
+        "slug": "watery-red",
+        "color": "#fdf2f2",
+        "name": "Watery Red"
+      },
+
+      {
+        "slug": "watery-green",
+        "color": "#ebf8f4",
+        "name": "Watery Green"
+      }
+    ]
+  }
+}
