@@ -1,8 +1,8 @@
 export type Pallet = {
-  palette: Color[];
+  palette: ColorData[];
 };
 
-export type Color = {
+export type ColorData = {
   slug: string;
   color: string;
   name: string;

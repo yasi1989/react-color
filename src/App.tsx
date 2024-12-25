@@ -1,5 +1,5 @@
 import "./App.css";
-import ColorParret from "./app/ColorParret";
+import ColorParret from "./features/color/ColorParret";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 
